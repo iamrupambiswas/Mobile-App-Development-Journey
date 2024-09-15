@@ -7,6 +7,8 @@ As part of the first section of the course, I completed the Mobile App Developme
 **Differences Between Web Apps and Mobile Apps:**
 One of the first concepts I explored was the distinction between web apps and mobile apps. While both serve essential functions, they cater to different user needs and environments. Mobile apps are designed for mobile devices, providing a more tailored user experience, while web apps operate through browsers and can be accessed on various devices.
 
+![My Image](/Screenshots/Module1.png)
+
 
 **The Evolution of Mobile Apps:** Understanding the evolution of mobile apps was fascinating. From the early days of simple applications to today’s complex and feature-rich platforms, mobile apps have transformed significantly. This evolution is driven by advancements in technology and changing user expectations, pushing developers to innovate continuously.
 

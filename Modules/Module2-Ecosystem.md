@@ -24,5 +24,8 @@ In this module, I deepened my understanding of the mobile app development ecosys
 
 Completed a comprehensive summary of all topics covered in the module and took a graded quiz to reinforce my understanding and assess my learning.
 
+![My Image](../Screenshots/Module2.png)
+
+
 
 Completing this module has equipped me with essential skills and knowledge for my mobile app development journey, and I am excited to apply these learnings in future projects.
